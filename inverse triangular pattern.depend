@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1602581035 source:c:\users\user\documents\projects\inverse triangular pattern\main.c
+	<stdio.h>
+	<stdlib.h>
+
